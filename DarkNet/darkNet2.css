@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Oswald&family=Roboto+Mono&display=swap');
+body{
+    background-image: url(uwu.jpg);
+}
+h1{
+    font-size: 80px;
+    color: white;
+    text-align: center;
+    font-family: 'Roboto Mono', monospace;
+}
+input{
+    text-align: center;
+    font-size: 35px;
+    border-radius: 15px;
+    color: goldenrod;
+}
+h2{
+    color: white;
+    text-align: center;
+}
+button{
+    font-size: 60px;
+    border-radius: 20px;
+    background: linear-gradient(to bottom, #006600 0%, #66ff33 100%);;
+}

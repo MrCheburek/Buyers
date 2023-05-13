@@ -1,0 +1,85 @@
+body{
+   text-decoration: none;
+    background: rgb(101,101,255);
+    background: linear-gradient(180deg, rgba(101,101,255,1) 0%, rgba(20,6,255,1) 100%);
+    height: 100vh;
+    
+}
+.first{
+    display: flex;
+    justify-content: space-between;
+
+}
+h2{
+    margin-right:50px;
+    font-family: 'Prompt', sans-serif;
+    color: aliceblue;
+}
+.first button{
+    cursor: pointer;
+    border: 0;
+    margin-top: 20px;
+    height: 30px;
+    width: 100px; 
+    border-radius: 5px;
+}
+.first img{
+    height: 100px;
+
+}
+.base{
+    width: 50%;
+    margin-top:15px;
+    margin-left:400px;
+    margin-right: 200px;
+    background-color:white;
+    display: inline-block;
+    border-radius:10px;
+    padding: 10px;
+}
+
+.exit img {
+    width: 20px;
+    height: 20px;
+}
+.enjoin{
+    margin-top: 30px;
+margin-left: 750px;
+    cursor:pointer;
+  padding:10px;
+display: flex;
+  border: 0;
+  border-radius:5px;
+  
+
+}
+.messenger{
+    text-align: center;
+    color: white;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.forMessenger img{
+
+    height: 30px;
+}
+.forMessenger {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+.title{
+    text-align: center;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.base img {
+   border: solid black;
+    border-radius: 10px;
+    margin-left: 70px;
+    height: 300px;
+  width: 700px;
+}
+.text{
+    padding-left: ;
+    padding-left: 60px;
+}

@@ -1,0 +1,92 @@
+body{
+  width: 100vw;
+  background-image:url(dva.png);
+  font-family: 'Cormorant Garamond', serif; 
+}
+.header__conteyner{
+    display: flex;
+    width: 800px;
+    height: 700px;
+}
+.header__conteyner p{
+    display:inline;
+}
+.header__logo{
+    align-items: center;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-left: 90px;
+    margin-top: 30px;
+    line-height: 2px;  
+}
+.header__logo p{
+    display: flex;
+    color: rgb(137, 135, 135);
+    font-size: 32px;
+}
+
+
+.header__logo h1{
+    font-size: 30px;
+    color: rgb(10, 202, 100);
+    font-size: 60px;
+
+}
+
+
+
+.bottom__left h2{
+    color:rgb(10, 202, 100); 
+    
+    display: flex;
+
+}
+
+.bottom__left p{
+    width: 700px;
+    font-size: 20px;
+    color: white;
+    margin-top: 40px;
+}
+
+
+
+.bottom__left img{
+    margin: 0;
+}
+
+.bottom__text{
+    margin-top: 600px;
+}
+
+
+
+
+.bottom__right input{
+    display: inline-block;
+    width: 300px;
+    height: 150px;
+}
+
+.img__conteyner{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    width: 500px;
+    height: 300px;
+}
+ol {
+    color: white;
+    font-size: 20px;
+
+}
+p {
+    text-shadow: 10px 10px 10px  #0033FF;
+}
+
+
+
+
+
+
+

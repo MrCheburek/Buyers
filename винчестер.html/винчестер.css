@@ -1,0 +1,28 @@
+
+body{
+    background-color: rgb(221, 217, 217);
+    font-family: 'Rajdhani', sans-serif;
+    font-family: 'Raleway', sans-serif;
+    font-size: 1.3em;
+}
+h1{
+    text-align: center;
+}
+.list{
+    display: inline-block;
+    border-style: solid;
+ 
+}
+body{
+    text-align: left;
+}
+
+img{
+    max-height: 240px;
+    max-width: 240px;
+    display: block;
+    margin-top: -5%;
+}
+.zx{
+    margin-left: 3%;
+}

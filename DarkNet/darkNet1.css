@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Oswald&family=Roboto+Mono&display=swap');
+h1{
+    text-align: center;
+    font-family: 'Roboto Mono', monospace;
+    color: rgb(255, 255, 255);
+    font-size: 50px;
+}
+body{
+    background-image: url(uwu.jpg);
+    text-align: center;
+    margin-top: 170px;
+}
+input{
+font-size: 25px;
+border-radius: 20px;
+color: blue;
+padding-left: 110px
+}
+p{
+    color: lawngreen;
+    text-align: center;
+}
+hr{
+    max-width: 30%;
+}
+button{
+font-size: 50px;
+border-radius: 15px;
+}
+div{
+    text-align: center;
+}
+button{
+    background: linear-gradient(to bottom, #336600 0%, #00cc00 100%);
+}
+.tor{
+    font-size: 25px;
+    color: rgb(24, 218, 24);
+}
+a{
+    text-decoration: none;
+}

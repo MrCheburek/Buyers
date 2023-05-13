@@ -1,0 +1,15 @@
+h1 {
+    color: antiquewhite;
+    background-color: brown;
+    text-align: center;
+    font-size: 5em;
+
+}
+body {
+    background-color: black;
+}
+table {
+    background-color:beige ;
+    width: 100%;
+    height: 100%;
+}

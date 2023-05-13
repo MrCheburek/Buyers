@@ -1,0 +1,106 @@
+.logotip {
+  color: white;
+  font-size: 55px;
+  font-family: "Lobster", cursive;
+  margin-left: 60px;
+}
+.logo-wrapp {
+  padding-bottom: 50px;
+}
+.bar-wrapp {
+  border: none;
+  list-style-type: none;
+  margin-left: 790px;
+  cursor: pointer;
+}
+body {
+  background-image: url(./img/222.jpg);
+}
+a {
+  margin-right: 50px;
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+}
+.it-wrapp {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.it-p {
+  width: 500px;
+  margin-top: 25px;
+  text-align: center;
+  color: white;
+  margin-bottom: 50px;
+  font-weight: 800;
+  font-size: 20px;
+}
+.img-it-club {
+  width: 1000px;
+  border-radius: 100px;
+}
+.it-p2 {
+  width: 500px;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  color: white;
+  margin-bottom: 50px;
+  font-weight: 800;
+  font-size: 20px;
+}
+.img-it-2 {
+  width: 300px;
+}
+.it-zag {
+  color: white;
+}
+.it-zag-2 {
+  color: white;
+  font-weight: 800;
+  font-size: 20px;
+}
+.img-twow {
+  border-radius: 100px;
+}
+.why-we {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.why-zag {
+  color: white;
+  font-weight: 800;
+  font-size: 20px;
+  margin-top: 50px;
+}
+.why-p {
+  width: 600px;
+  color: white;
+  font-weight: 800;
+  font-size: 20px;
+  margin-bottom: 50px;
+}
+.img-three {
+  border-radius: 100px;
+  margin-bottom: 50px;
+}
+.footer-wrapp {
+  border: none;
+  list-style-type: none;
+  margin-left: 600px;
+  cursor: pointer;
+  display: flex;
+  margin-right: 20px;
+  color: white;
+  font-weight: 900;
+  font-size: 20px;
+}
+.foteer-p {
+  margin-right: 30px;
+  text-decoration: none;
+  color: white;
+  font-weight: 900;
+  font-size: 20px;
+  margin-right: 50px;
+}
